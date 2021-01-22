@@ -1,0 +1,26 @@
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\AssimpLib\Assimp32.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\AssimpLib\Assimp64.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\AssimpLib\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\3D Models\Camera\Camera.3ds
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\3D Models\Camera\camera.obj
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\AssimpSample.exe.config
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\SharpGL.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Release\System.Drawing.Common.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\MainWindow.baml
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\App.g.cs
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample_Content.g.cs
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample.g.resources
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Release\AssimpSample.pdb

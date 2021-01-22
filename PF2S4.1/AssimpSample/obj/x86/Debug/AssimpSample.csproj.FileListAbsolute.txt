@@ -1,0 +1,77 @@
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\3D Models\Camera\Camera.3ds
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\3D Models\Camera\camera.obj
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\PF1S4.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\3D Models\Camera\Camera.3ds
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\3D Models\Camera\camera.obj
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\bin\Debug\System.Drawing.Common.dll
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\RG\RG_KT2\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\AssimpLib\Assimp32.dll
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\AssimpLib\Assimp64.dll
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\AssimpLib\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\3D Models\Camera\Camera.3ds
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\3D Models\Camera\camera.obj
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\AssimpSample.exe.config
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\AssimpSample.pdb
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\AssimpNet.dll
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\SharpGL.dll
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\SharpGL.SceneGraph.dll
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\SharpGL.WPF.dll
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\bin\Debug\System.Drawing.Common.dll
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csprojAssemblyReference.cache
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\MainWindow.baml
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\App.g.cs
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample_Content.g.cs
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample_MarkupCompile.cache
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.g.resources
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.Properties.Resources.resources
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.GenerateResource.cache
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.csproj.CopyComplete
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.exe
+C:\Users\Aleksandar\Desktop\PF2S4.1\AssimpSample\obj\x86\Debug\AssimpSample.pdb
