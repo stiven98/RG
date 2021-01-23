@@ -1,15 +1,59 @@
 ﻿<Window x:Class="AssimpSample.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="RG_2020/21 Aleksandar Stevanovic" Height="360" Width="450" 
+        Title="RG_2020/21 Aleksandar Stevanovic" Height="600" Width="800" 
         xmlns:sharpGL="clr-namespace:SharpGL.WPF;assembly=SharpGL.WPF" KeyDown="Window_KeyDown">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="70*"/>
+            <ColumnDefinition Width="30*"/>
+        </Grid.ColumnDefinitions>
         <!-- The OpenGL control provides a OpenGL drawing surface. -->
         <sharpGL:OpenGLControl 
             Name="openGLControl" OpenGLDraw="openGLControl_OpenGLDraw" 
             OpenGLInitialized="openGLControl_OpenGLInitialized" Resized="openGLControl_Resized"
-            DrawFPS="True" RenderContextType="FBO" FrameRate="10"/>
-        
+            DrawFPS="True" RenderContextType="FBO" FrameRate="10" Margin="0,0,0,0"/>
+        <Grid HorizontalAlignment="Right" Grid.Column="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+                <ColumnDefinition/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="60*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="60*"/>
+                <RowDefinition Height="25*"/>
+                <RowDefinition Height="60*"/>
+                <RowDefinition Height="100*"/>
+                <RowDefinition Height="50*"/>
+            </Grid.RowDefinitions>
+
+            <Label Content="Visina zatvora" Grid.Row="0" Grid.ColumnSpan="3" VerticalAlignment="Bottom"  HorizontalAlignment="Center" Height="26" Margin="25,0" Width="89" />
+            <TextBox Name="visina_zatvora" Grid.Row="1" IsReadOnly="True" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="18" Margin="0,17,0,12"  />
+            <Button Content="+" Name="buttonPlus" Width="23" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Right"  VerticalAlignment="Center" Height="20" Margin="0,10,10,10" Click="buttonPlus_Click"/>
+            <Button Content="-" Name="buttonMinus" Width="23" Grid.Column="2" Grid.Row="1" HorizontalAlignment="Left"  VerticalAlignment="Center" Height="20" Margin="10,10,0,10" Click="buttonMinus_Click"/>
+
+            <Label Content="Brzina rotacije" Grid.Row="2" Grid.ColumnSpan="3" VerticalAlignment="Bottom"  HorizontalAlignment="Center" Height="25" Margin="32,0,31,0" Width="90" />
+            <TextBox Name="rotate" Grid.Row="3" IsReadOnly="True" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="18" Margin="0,17,0,11"  />
+            <Button Content="+" Name="a" Width="23" Grid.Column="2" Grid.Row="3" HorizontalAlignment="Right"  VerticalAlignment="Center" Height="20" Margin="0,10,10,10" Click="a_Click"/>
+            <Button Content="-" Name="s" Width="23" Grid.Column="2" Grid.Row="3" HorizontalAlignment="Left"  VerticalAlignment="Center" Height="20" Margin="10,10,0,10" Click="s_Click"/>
+
+            <Label Content="Skaliranje" Grid.Row="4" Grid.ColumnSpan="3" VerticalAlignment="Bottom"  HorizontalAlignment="Center" Height="26" Margin="30,0,29,0" Width="80" />
+            <TextBox Name="skaliranje" Grid.Row="5" IsReadOnly="True" Grid.Column="0" Grid.ColumnSpan="2" HorizontalAlignment="Stretch" VerticalAlignment="Center" Height="18" Margin="0,15,0,17"  />
+            <Button Content="+" Width="23" Grid.Column="2" Grid.Row="5" HorizontalAlignment="Right"  VerticalAlignment="Center" Height="20" Margin="0,10,10,10" Click="Button_Click"/>
+            <Button Content="-" Width="23" Grid.Column="2" Grid.Row="5" HorizontalAlignment="Left"  VerticalAlignment="Center" Height="20" Margin="10,10,0,10" Click="Button_Click2"/>
+
+
+            <TextBlock Grid.Row="6" TextWrapping="Wrap" Grid.ColumnSpan="3" Margin="10,10,10,10">
+			Simulacija se pokreće pritiskom na taster M
+            </TextBlock>
+
+
+        </Grid>
+
+
+
     </Grid>
 </Window>
